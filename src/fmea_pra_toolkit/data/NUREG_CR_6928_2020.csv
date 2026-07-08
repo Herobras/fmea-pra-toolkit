@@ -1,0 +1,307 @@
+group,component_type,failure_mode,failure_description
+Valves,Air-Operated Valve (AOV),AOV-FTO,Air-Operated Valve Fails To Open
+Valves,Air-Operated Valve (AOV),AOV-FTC,Air-Operated Valve Fails To Close
+Valves,Air-Operated Valve (AOV),AOV-FTOC,Air-Operated Valve Fails To Open/Close
+Valves,Air-Operated Valve (AOV),AOV-FC,Air-Operated Valve Fails To Control
+Valves,Air-Operated Valve (AOV),AOV-SOP,Air-Operated Valve Spurious Operation
+Valves,Air-Operated Valve (AOV),AOV-ILS,Air-Operated Valve Internal Leakage (Small)
+Valves,Air-Operated Valve (AOV),AOV-ILL,Air-Operated Valve Internal Leakage (Rupture)
+Valves,Air-Operated Valve (AOV),AOV-ELS,Air-Operated Valve External Leakage (Small)
+Valves,Air-Operated Valve (AOV),AOV-ELL,Air-Operated Valve External Leakage (Rupture)
+Valves,Air-Operated Valve (AOV),AOV-SOP-CCW,Component Cooling Water AOV Spurious Operation
+Valves,Air-Operated Valve (AOV),AOV-SOP-IAS,Instrument Air System AOV Spurious Operation
+Valves,Motor-Operated Valve (MOV),MOV-FTO,Motor-Operated Valve Fails To Open
+Valves,Motor-Operated Valve (MOV),MOV-FTC,Motor-Operated Valve Fails To Close
+Valves,Motor-Operated Valve (MOV),MOV-FTOC,Motor-Operated Valve Fails To Open/Close
+Valves,Motor-Operated Valve (MOV),MOV-FC,Motor-Operated Feed Control Valve Fails To Control
+Valves,Motor-Operated Valve (MOV),MOV-SOP,Motor-Operated Valve Spurious Operation
+Valves,Motor-Operated Valve (MOV),MOV-ILS,Motor-Operated Valve Internal Leakage (Small)
+Valves,Motor-Operated Valve (MOV),MOV-ILL,Motor-Operated Valve Internal Leakage (Rupture)
+Valves,Motor-Operated Valve (MOV),MOV-ELS,Motor-Operated Valve External Leakage (Small)
+Valves,Motor-Operated Valve (MOV),MOV-ELL,Motor-Operated Valve External Leakage (Rupture)
+Valves,Motor-Operated Valve (MOV),MOV-FTO-BFV,Butterfly Valve Fails To Open
+Valves,Motor-Operated Valve (MOV),MOV-FTC-BFV,Butterfly Valve Fails To Close
+Valves,Motor-Operated Valve (MOV),MOV-FTOC-BFV,Butterfly Valve Fails To Open/Close
+Valves,Motor-Operated Valve (MOV),MOV-SOP-CCW,Component Cooling Water MOV Spurious Operation
+Valves,Motor-Operated Valve (MOV),MOV-SOP-SWS,Standby Service Water Motor-Operated Valve Spurious Operation
+Valves,Motor-Operated Valve (MOV),MOV-BFV-SOP-CCW,Component Cooling Water Butterfly Valve Spurious Operation
+Valves,Hydraulic-Operated Valve (HOV),HOV-FTOC,Hydraulic-Operated Valve Fails To Open
+Valves,Hydraulic-Operated Valve (HOV),HOV-FC,Hydraulic-Operated Valve Fails To Control
+Valves,Hydraulic-Operated Valve (HOV),HOV-SOP,Hydraulic-Operated Valve Spurious Operation
+Valves,Hydraulic-Operated Valve (HOV),HOV-ILS,Hydraulic-Operated Valve Internal Leakage (Small)
+Valves,Hydraulic-Operated Valve (HOV),HOV-ILL,Hydraulic-Operated Valve Internal Leakage (Rupture)
+Valves,Hydraulic-Operated Valve (HOV),HOV-ELS,Hydraulic-Operated Valve External Leakage (Small)
+Valves,Hydraulic-Operated Valve (HOV),HOV-ELL,Hydraulic-Operated Valve External Leakage (Rupture)
+Valves,Solenoid-Operated Valve (SOV),SOV-FTOC,Solenoid-Operated Valve Fails To Open
+Valves,Solenoid-Operated Valve (SOV),SOV-FC,Solenoid-Operated Valve Fails To Control
+Valves,Solenoid-Operated Valve (SOV),SOV-SOP,Solenoid-Operated Valve Spurious Operation
+Valves,Solenoid-Operated Valve (SOV),SOV-ILS,Solenoid-Operated Valve Internal Leakage (Small)
+Valves,Solenoid-Operated Valve (SOV),SOV-ILL,Solenoid-Operated Valve Internal Leakage (Rupture)
+Valves,Solenoid-Operated Valve (SOV),SOV-ELS,Solenoid-Operated Valve External Leakage (Small)
+Valves,Solenoid-Operated Valve (SOV),SOV-ELL,Solenoid-Operated Valve External Leakage (Rupture)
+Valves,Explosive-Operated Valve (EOV),EOV-FTO,Explosive-Operated Valve Fails To Open
+Valves,Vacuum Breaker Valve (VBV),VBV-FTO,Vacuum Breaker Valve Fails To Open
+Valves,Vacuum Breaker Valve (VBV),VBV-FTC,Vacuum Breaker Valve Fails To Close
+Valves,Vacuum Breaker Valve (VBV),VBV-FTOC,Vacuum Breaker Valve Fails To Open/Close
+Valves,Vacuum Breaker Valve (VBV),VBV-SOP,Vacuum Breaker Valve Spurious Operation
+Valves,Vacuum Breaker Valve (VBV),VBV-ILS,Vacuum Breaker Valve Internal Leakage (Small)
+Valves,Vacuum Breaker Valve (VBV),VBV-ILL,Vacuum Breaker Valve Internal Leakage (Rupture)
+Valves,Turbine Bypass Valve (TBV),TBV-FTO,Turbine Bypass Valve Fails To Open
+Valves,Turbine Bypass Valve (TBV),TBV-FTC,Turbine Bypass Valve Fails To Close
+Valves,Turbine Bypass Valve (TBV),TBV-FTOC,Turbine Bypass Valve Fails To Open/Close
+Valves,Turbine Bypass Valve (TBV),TBV-FC,Turbine Bypass Valve Fails To Control
+Valves,Main Steam Isolation Valve (MSV),MSV-FTOC,Main Steam Isolation Valve Fails To Open/Close
+Valves,Main Steam Isolation Valve (MSV),MSV-SOP,Main Steam Isolation Valve Spurious Operation
+Valves,Main Steam Isolation Valve (MSV),MSV-ILS,Main Steam Isolation Valve Internal Leakage (Small)
+Valves,Main Steam Isolation Valve (MSV),MSV-ILL,Main Steam Isolation Valve Internal Leakage (Rupture)
+Valves,Main Steam Isolation Valve (MSV),MSV-ELS,Main Steam Isolation Valve External Leakage (Small)
+Valves,Main Steam Isolation Valve (MSV),MSV-ELL,Main Steam Isolation Valve External Leakage (Rupture)
+Valves,Check Valve (CKV),CKV-FTO,Check Valve Fails To Open
+Valves,Check Valve (CKV),CKV-FTC,Check Valve Fails To Close
+Valves,Check Valve (CKV),CKV-SOP,Check Valve Spurious Operation
+Valves,Check Valve (CKV),CKV-ILS,Check Valve Internal Leakage (Small)
+Valves,Check Valve (CKV),CKV-ILL,Check Valve Internal Leakage (Rupture)
+Valves,Check Valve (CKV),CKV-ELS,Check Valve External Leakage (Small)
+Valves,Check Valve (CKV),CKV-ELL,Check Valve External Leakage (Rupture)
+Valves,Manual Valve (XVM),XVM-FTOC,Manual Valve Fails To Open
+Valves,Manual Valve (XVM),XVM-SOP,Manual Valve Spurious Operation
+Valves,Manual Valve (XVM),XVM-ILS,Manual Valve Internal Leakage (Small)
+Valves,Manual Valve (XVM),XVM-ILL,Manual Valve Internal Leakage (Rupture)
+Valves,Manual Valve (XVM),XVM-ELS,Manual Valve External Leakage (Small)
+Valves,Manual Valve (XVM),XVM-ELL,Manual Valve External Leakage (Rupture)
+Valves,Manual Valve (XVM),XVM-SOP-SWS,Standby Service Water Manual Valve Spuriously Transfers
+Valves,Flow Control Valve (FCV),FCV-FTOC,Flow Control Valve Fails To Open/Close
+Valves,Flow Control Valve (FCV),FCV-FC,Flow Control Valve Fails To Control
+Valves,Flow Control Valve (FCV),FCV-SOP,Flow Control Valve Spurious Operation
+Valves,Flow Control Valve (FCV),FRV-FTOP,Feedwater Regulating Valve Fails To Operate
+Pumps,Motor-Driven Pump (MDP),MDP-FTS-NS,"Motor-Driven Pump Fails To Start, Normally Standby"
+Pumps,Motor-Driven Pump (MDP),MDP-FTR<1H,Motor-Driven Pump FTR<1H
+Pumps,Motor-Driven Pump (MDP),MDP-FTR>1H,Motor-Driven Pump FTR>1H
+Pumps,Motor-Driven Pump (MDP),MDP-ELS,Motor-Driven Pump External Leakage (Small)
+Pumps,Motor-Driven Pump (MDP),MDP-ELL,Motor-Driven Pump External Leakage (Rupture)
+Pumps,Motor-Driven Pump (MDP),MDP-FTS-NR,"Motor-Driven Pump Fails To Start, Normally Running"
+Pumps,Motor-Driven Pump (MDP),MDP-FTR-NR,"Motor-Driven Pump Fails To Run, Normally Running"
+Pumps,Motor-Driven Pump (MDP),MDP-FTS-CCW,Component Cooling Water Motor-Driven Pump Fails To Start
+Pumps,Motor-Driven Pump (MDP),MDP-FTR-CCW,Component Cooling Water Motor-Driven Pump Fails To Run
+Pumps,Motor-Driven Pump (MDP),MDP-FTS-SWS,Service Water Motor-Driven Pump Fails To Start
+Pumps,Motor-Driven Pump (MDP),MDP-FTR-SWS,Service Water Motor-Driven Pump Fails To Run
+Pumps,Motor-Driven Pump (MDP),MDP-FTR-CWS,Circulating Water Motor-Driven Pump Fails To Run
+Pumps,Turbine-Driven Pump (TDP),TDP-FTS-NS,"Turbine-Driven Pump Fails To Start (Pooled Systems), Normally Standby"
+Pumps,Turbine-Driven Pump (TDP),TDP-FTR<1H,"Turbine-Driven Pump Fails To Run (Pooled Systems), Early Term"
+Pumps,Turbine-Driven Pump (TDP),TDP-FTR>1H,"Turbine-Driven Pump Fails To Run (Pooled Systems), Late Term"
+Pumps,Turbine-Driven Pump (TDP),TDP-ELS,Turbine-Driven Pump External Leakage (Small)
+Pumps,Turbine-Driven Pump (TDP),TDP-ELL,Turbine Bypass Valve External Leakage (Rupture)
+Pumps,Turbine-Driven Pump (TDP),TDP-FTS-NS-AFW,"Auxiliary Feedwater Turbine-Driven Pump Fails To Start, Normally Standby"
+Pumps,Turbine-Driven Pump (TDP),TDP-FTR<1H-AFW,Auxiliary Feedwater Turbine-Driven Pump FTR<1H
+Pumps,Turbine-Driven Pump (TDP),TDP-FTR>1H-AFW,Auxiliary Feedwater Turbine-Driven Pump FTR>1H
+Pumps,Turbine-Driven Pump (TDP),TDP-FTS-NS-HCI-RCI,"HCI-RCI Turbine-Driven Pump Fails To Start, Normally Standby"
+Pumps,Turbine-Driven Pump (TDP),TDP-FTR<1H-HCI-RCI,HCI Turbine-Driven Pump FTR<1H
+Pumps,Turbine-Driven Pump (TDP),TDP-FTR>1H-HCI-RCI,HCI-RCI Turbine-Driven Pump FTR>1H
+Pumps,Turbine-Driven Pump (TDP),TDP-FTS-NR-MFW,"Main Feedwater Turbine-Driven Pump Fails To Start, Normally Running"
+Pumps,Turbine-Driven Pump (TDP),TDP-FTR-NR-MFW,"Main Feedwater Turbine-Driven Pump Fails To Run, Normally Running"
+Pumps,Engine-Driven Pump (EDP),EDP-FTS-NS,"Engine-Driven Pump Fails To Start, Normally Standby"
+Pumps,Engine-Driven Pump (EDP),EDP-FTR<1H,"Engine-Driven Pump FTR<1H, Normally Standby"
+Pumps,Engine-Driven Pump (EDP),EDP-FTR>1H,"Engine-Driven Pump FTR>1H, Normally Standby"
+Pumps,Engine-Driven Pump (EDP),EDP-ELS,Engine-Driven Pump External Leakage (Small)
+Pumps,Engine-Driven Pump (EDP),EDP-ELL,Engine-Driven Pump External Leakage (Rupture)
+Pumps,Engine-Driven Pump (EDP),EDP-FTS-AFW,Auxiliary Feedwater Engine-driven pump Fails To Start
+Pumps,Engine-Driven Pump (EDP),EDP-FTR<1H-AFW,Auxiliary Feedwater Engine-driven pump Fails To Run <1H
+Pumps,Engine-Driven Pump (EDP),EDP-FTR>1H-AFW,Auxiliary Feedwater Engine-driven pump Fails To Run >1H
+Pumps,Positive Displacement Pump (PDP),PDP-FTS-NR,"Positive Displacement Pump Fails To Start, Normally Running"
+Pumps,Positive Displacement Pump (PDP),PDP-FTR-NR,"Positive Displacement Pump Fails To Run, Normally Running"
+Pumps,Positive Displacement Pump (PDP),PDP-FTS-NS,"Positive Displacement Pump Fails To Start, Normally Standby"
+Pumps,Positive Displacement Pump (PDP),PDP-FTR<1H,Positive Displacement Pump FTR<1H
+Pumps,Positive Displacement Pump (PDP),PDP-FTR>1H,Positive Displacement Pump FTR>1H
+Pumps,Positive Displacement Pump (PDP),PDP-ELS,Positive Displacement Pump External Leakage (Small)
+Pumps,Positive Displacement Pump (PDP),PDP-ELL,Positive Displacement Pump External Leakage (Rupture)
+Pumps,Pump Volute (PMP),PMP-Volute,Pump Volute Fails To Run (Driver Independent Centrifugal Pumps)
+Generators,Emergency Diesel Generator (EDG),EDG-FTS,"Diesel Generator Fails To Start, Normally Standby"
+Generators,Emergency Diesel Generator (EDG),EDG-FTLR,"Diesel Generator Fails To Load And Run, Early"
+Generators,Emergency Diesel Generator (EDG),EDG-FTR,"Diesel Generator Fails To Run, Late Term"
+Generators,Hydro Turbine Generator (HTG),HTG-FTS,Hydro Turbine Generator Fails To Start
+Generators,Hydro Turbine Generator (HTG),HTG-FTLR,"Hydro Turbine Generator Fails To Load And Run, Early"
+Generators,Hydro Turbine Generator (HTG),HTG-FTR,"Hydro Turbine Generator Fails To Run, Late Term"
+Generators,Combustion Turbine Generator (CTG),CTG-FTS,"Combustion Turbine Generator Fails To Start, Normally Standby"
+Generators,Combustion Turbine Generator (CTG),CTG-FTLR,"Combustion Turbine Generator Fails To Load And Run, Early Term"
+Generators,Combustion Turbine Generator (CTG),CTG-FTR,"Combustion Turbine Generator Fails To Run, Late Term"
+Generators,High-Pressure Core Spray Generator (HPCS),EDG-FTS-HCS,High-Pressure Core Spray Generator Fails To Start
+Generators,High-Pressure Core Spray Generator (HPCS),EDG-FTR-HCS,High-Pressure Core Spray Generator Fails To Run
+Generators,Station Blackout Generator (SBO),EDG-FTS-SBO,SBO Generator Fails To Start
+Generators,Station Blackout Generator (SBO),EDG-FTR-SBO,SBO Generator Fails To Run
+Relief Valves,Safety Relief Valve (SRV),SRV-FTO,Safety relief valve fails To open
+Relief Valves,Safety Relief Valve (SRV),SRV-FTC,BWR ADS/SRV Fails To Reclose
+Relief Valves,Safety Relief Valve (SRV),SRV-FC,Safety Relief Valve (BWR Only) Fails To Control
+Relief Valves,Safety Relief Valve (SRV),SRV-SOP,Safety Relief Valve Spurious Operation
+Relief Valves,Safety Relief Valve (SRV),SRV-ILS,Safety Relief Valve (BWR Only) Internal Leakage (Small)
+Relief Valves,Safety Relief Valve (SRV),SRV-ILL,Safety Relief Valve (BWR Only) Internal Leakage (Rupture)
+Relief Valves,Safety Relief Valve (SRV),SRV-ELS,Safety Relief Valve (BWR Only) External Leakage (Small)
+Relief Valves,Safety Relief Valve (SRV),SRV-ELL,Safety Relief Valve (BWR Only) External Leakage (Rupture)
+Relief Valves,Safety Valve (SVV),SVV-SOP,Code Safety Valve Spurious Operation
+Relief Valves,Safety Valve (SVV),SVV-ILS,Code Safety Valve Internal Leakage (Small)
+Relief Valves,Safety Valve (SVV),SVV-ILL,Code Safety Valve Internal Leakage (Rupture)
+Relief Valves,Safety Valve (SVV),SVV-ELS,Code Safety Valve External Leakage (Small)
+Relief Valves,Safety Valve (SVV),SVV-ELL,Code Safety Valve External Leakage (Rupture)
+Relief Valves,Safety Valve (SVV),SVV-FTO-PWR-MSS,Safety Valve Fails To Open+D174 PWRs)
+Relief Valves,Safety Valve (SVV),SVV-FTC-PWR-MSS,"Safety Valve Fails To Close (Main Steam System, PWRs)"
+Relief Valves,Safety Valve (SVV),SVV-SOP-PWR-MSS,"Safety Valve Spurious Operation (Main Steam System, PWRs)"
+Relief Valves,Safety Valve (SVV),SVV-FTO-PWR-RCS,"Safety Valve Fails To Open (Reactor Coolant System, PWRs)"
+Relief Valves,Safety Valve (SVV),SVV-FTC-PWR-RCS,"Safety Valve Fails To Close (Reactor Coolant System, PWRs)"
+Relief Valves,Safety Valve (SVV),SVV-SOP-PWR-RCS,"Safety Valve Spurious Operation (Reactor Coolant System, PWRs)"
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-FTO-RCS,"Power-Operated Relief Valve Fails To Open (Reactor Coolant System, PWRs)"
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-FTC-RCS,"Power-Operated Relief Valve Fails To Close (Reactor Coolant System, PWRs)"
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-FTO-MSS,"Power-Operated Relief Valve Fails To Open (Main Steam System, PWRs)"
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-FTC-MSS,"Power-Operated Relief Fails To Close (Main Steam System, PWRs)"
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-FC-MSS,"Power-Operated Relief Fails To Control (Cooldown) (Main Steam System, PWRs)"
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-SOP,Power Operated Relief Spurious Operation
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-ILS,Power-Operated Relief Valve Internal Leakage (Small)
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-ILL,Power-Operated Relief Valve Internal Leakage (Rupture)
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-ELS,Power-Operated Relief Valve External Leakage (Small)
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-ELL,Power-Operated Relief Valve External Leakage (Rupture)
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-LOOP,"Power-Operated Relief Valves Open During LOOP (Reactor Coolant System, PWRs)"
+Relief Valves,Power-Operated Relief Valve (PORV),PORV-Transient,"Power-Operated Relief Valves Open During Transient (Reactor Coolant System, PWRs)"
+Relief Valves,Low-Capacity Relief Valve (RVL),RVL-FTO,Low Capacity Relief Valve Fails To Open
+Relief Valves,Low-Capacity Relief Valve (RVL),RVL-FTC,Low Capacity Relief Valve Fails To Close
+Relief Valves,Low-Capacity Relief Valve (RVL),RVL-SOP,Low Capacity Relief Valve Spurious Operation
+Relief Valves,Low-Capacity Relief Valve (RVL),RVL-ILS,Low Capacity Relief Valve Internal Leakage (Small)
+Relief Valves,Low-Capacity Relief Valve (RVL),RVL-ILL,Low Capacity Relief Valve Internal Leakage (Rupture)
+Relief Valves,Low-Capacity Relief Valve (RVL),RVL-ELS,Low Capacity Relief Valve External Leakage (Small)
+Relief Valves,Low-Capacity Relief Valve (RVL),RVL-ELL,Low Capacity Relief Valve External Leakage (Rupture)
+Electrical Equipment,Battery Charger (BCH),BCH-FTOP,Battery Charger Fails To Operate
+Electrical Equipment,Battery (BAT),BAT-FTOP,Battery  Fails To Operate
+Electrical Equipment,Automatic Bus Transfer Switch (ABT),ABT-FF,Automatic Power Transfer Switch Fails To Transfer
+Electrical Equipment,Automatic Bus Transfer Switch (ABT),ABT-SOP,Automatic Power Transfer Switch Spurious Operation
+Electrical Equipment,Circuit Breaker (CBK),CRB-FTOC,Circuit Breaker Fails To Open/Close
+Electrical Equipment,Circuit Breaker (CBK),CRB-SOP,Circuit Breaker (All Voltages) Spurious Operation
+Electrical Equipment,Circuit Breaker (CBK),CRBHV-FTOC,High Voltage (13.8 and 16 kV) Circuit Breaker Fails To Open/Close
+Electrical Equipment,Circuit Breaker (CBK),CRBHV-SOP,High Voltage (13.8 and 16 Kv) Circuit Breaker Spurious Operation
+Electrical Equipment,Circuit Breaker (CBK),CRBMV-FTOC,Medium Voltage (4160 V and 6.9 kV) Circuit Breaker Fails To Open/Close
+Electrical Equipment,Circuit Breaker (CBK),CRBMV-SOP,Medium Voltage (4160 v and 6.9 Kv) Circuit Breaker Spurious Operation
+Electrical Equipment,Circuit Breaker (CBK),CRB-FTOC-480,Low Voltage (480 V) Circuit Breaker Fails To Open/Close
+Electrical Equipment,Circuit Breaker (CBK),CRB-SOP-480,Low Voltage (480 V) Circuit Breaker Spurious Operation
+Electrical Equipment,Circuit Breaker (CBK),CRBDC-FTOC,DC Circuit Breaker Fails To Open/Close
+Electrical Equipment,Circuit Breaker (CBK),CRBDC-SOP,DC Circuit Breaker Spurious Operation
+Electrical Equipment,Inverter (INV),INV-FTOP,Inverter Fails To Operate
+Electrical Equipment,Bus (BUS),BUS-FTOP-AC,AC Bus Fails To Operate
+Electrical Equipment,Bus (BUS),BUS-FTOP-DC,DC Bus Fails To Operate
+Electrical Equipment,Motor Control Center (MCC),MCC-FTOP,Motor Control Center Fails To Operate
+Electrical Equipment,Transformer (TFM),TFM-FTOP,Transformer Fails To Operate
+Electrical Equipment,Sequencer (SEQ),SEQ-FTOP,Sequencer fails To operate (as a Sub Component of the EDG)
+Electrical Equipment,Fuse,FUS-SOP,Fuse Spurious Operation
+Strainers/Filters,Filter (FLT),STR-FLT-PG-RAW,Strainer Plugging (Dirty water systems)
+Strainers/Filters,Filter (FLT),STR-FLT-ELS,Filter External Leakage (Small) All Systems
+Strainers/Filters,Filter (FLT),STR-FLT-ELL,Filter External Leakage (Small) All Systems
+Strainers/Filters,Filter (FLT),STR-FLT-PG-CLEAN,"Filter Plugging, Clean Systems"
+Strainers/Filters,Filter (FLT),STR-FLT-BYP-CLEAN,Clean Systems Passive Filter Bypass
+Strainers/Filters,Filter (FLT),STR-FLT-PG-IAS,Instrument Air System Filter Plugs
+Strainers/Filters,Self-Cleaning Strainer (FLTSC),STR-FLTSC-PG,Self Cleaning Filter Plugging
+Strainers/Filters,Self-Cleaning Strainer (FLTSC),STR-FLTSC-BYP,Self Cleaning Filter Bypass
+Strainers/Filters,Self-Cleaning Strainer (FLTSC),STR-FLTSC-FTOP,Self Cleaning Filter Fails To Operate
+Strainers/Filters,Self-Cleaning Strainer (FLTSC),STR-FLTSC-ELS,Self Cleaning Filter External Leakage (Small)
+Strainers/Filters,Self-Cleaning Strainer (FLTSC),STR-FLTSC-ELL,Self Cleaning Filter External Leakage (Rupture)
+Strainers/Filters,Self-Cleaning Strainer (FLTSC),STR-FLTSC-PG-SWN,Normally Running Service Water Strainer Plugs
+Strainers/Filters,Self-Cleaning Strainer (FLTSC),STR-FLTSC-PG-SSW,Standby Service Water Strainer Plugs
+Strainers/Filters,Self-Cleaning Strainer (FLTSC),STR-FLTSC-PG-EE-SSW,"Standby Service Water Strainer Plugging, Environmental"
+Strainers/Filters,Sump Strainer (SMP),STR-PG-SUMP-BWR,"Containment Sump Plugging (BWRs, suppression pool strainers)"
+Strainers/Filters,Sump Strainer (SMP),STR-PG-SUMP-PWR,Containment Sump Plugging (PWRs)
+Strainers/Filters,Traveling Screen Assembly (TSA),TSA-PG,Traveling Screen Plugging
+Strainers/Filters,Traveling Screen Assembly (TSA),TSA-BYP,Traveling Screen Bypass
+Strainers/Filters,Traveling Screen Assembly (TSA),TSA-FTOP,Traveling Screen Fails To Operate
+Strainers/Filters,Traveling Screen Assembly (TSA),TSA-PG-SSW,Standby Service Water Traveling Screen Plugs
+Strainers/Filters,Trash Rack (TRK),TRK-PG,Trash Rack Plugging
+RPS,Bistable (BIS),BIS-FTOP,Bistable Fails To Operate
+RPS,Process Logic Components,PLF-FTOP,Process Logic (Flow) Fails To Operate
+RPS,Process Logic Components,PLL-FTOP,Process Logic (Level) Fails To Operate
+RPS,Process Logic Components,PLP-FTOP,Process Logic (Pressure) Fails To Operate
+RPS,Process Logic Components,PLDT-FTOP,Process Logic (Delta Temperature) Fails To Operate
+RPS,Sensor/Transmitter Components,STF-FTOP-D,Sensor/Transmitter (Flow) Fails To Operate on Demand
+RPS,Sensor/Transmitter Components,STF-FTOP-R,Sensor/Transmitter (Flow) Fails To Operate per Hour
+RPS,Sensor/Transmitter Components,STL-FTOP-D,Sensor/Transmitter (Level) Fails To Operate on Demand
+RPS,Sensor/Transmitter Components,STL-FTOP-R,Sensor/Transmitter (Level) Fails To Operate per Hour
+RPS,Sensor/Transmitter Components,STP-FTOP-D,Sensor/Transmitter (Pressure) Fails To Operate on Demand
+RPS,Sensor/Transmitter Components,STP-FTOP-R,Sensor/Transmitter (Pressure) Fails To Operate per Hour
+RPS,Sensor/Transmitter Components,STT-FTOP-D,Sensor/Transmitter (Temperature) Fails To Operate on Demand
+RPS,Sensor/Transmitter Components,STT-FTOP-R,Sensor/Transmitter (Temperature) Fails To Operate per Hour
+RPS,Reactor Trip Breaker (RTB),RTB-FTOC-BME,RPS Breaker (Mechanical) Fails To Open/Close
+RPS,Reactor Trip Breaker (RTB),RTB-FTOP-BSN,RPS Breaker (Shunt Trip) Fails To Operate
+RPS,Reactor Trip Breaker (RTB),RTB-FTOP-BUV,RPS Breaker (Undervoltage Trip) Fails To Operate
+RPS,Reactor Trip Breaker (RTB),RTB-FTOC,RPS Breaker (Combined) Fails To Open/Close
+RPS,Manual Switch (MSW),MSW-FTOC,Manual Switch Fails To Open/Close
+RPS,Relay (RLY),RLY-FTOP,Relay Fails To Operate
+Control Rods,Control Rod Drive (CRD),CRD-FTOP,Control Rod Drive Fails To Insert Rod
+Control Rods,Control Rod Drive (CRD),CRD-SOP,Control Rod Drive Spurious Operation
+Control Rods,Control Rod (ROD),ROD-FTOP,Control Rod Fails To Operate/ Insert Rod
+Control Rods,Control Rod (ROD),ROD-SOP,Control Rod Spurious Operation
+Control Rods,Hydraulic Control Unit (HCU),HCU-FTI,Hydraulic Control Unit Components Fail
+Control Rods,Hydraulic Control Unit (HCU),HCU-FTOP,Hydraulic Control Unit Fails To Operate
+Control Rods,Hydraulic Control Unit (HCU),HCU-SOP,Hydraulic Control Unit Spurious Operation
+Heating & Ventilation,Air Damper (DMP),AOD-FTOC,Air-Operated Damper Fails To Open/Close
+Heating & Ventilation,Air Damper (DMP),AOD-SOP,Air-Operated Damper Spurious Operation
+Heating & Ventilation,Air Damper (DMP),AOD-ILS,Air-Operated Damper Internal Leakage (Small)
+Heating & Ventilation,Air Damper (DMP),AOD-ILL,Air-Operated Damper Internal Leakage (Rupture)
+Heating & Ventilation,Air Damper (DMP),HOD-FTOC,Hydraulic-Operated Damper Fails To Open/Close
+Heating & Ventilation,Air Damper (DMP),HOD-SOP,Hydraulic-Operated Damper Spurious Operation
+Heating & Ventilation,Air Damper (DMP),HOD-ILS,Hydraulic-Operated Damper Internal Leakage (Small)
+Heating & Ventilation,Air Damper (DMP),HOD-ILL,Hydraulic-Operated Damper Internal Leakage (Rupture)
+Heating & Ventilation,Air Damper (DMP),MOD-FTOC,Motor-Operated Damper  Fails To Open
+Heating & Ventilation,Air Damper (DMP),MOD-SOP,Motor-Operated Damper Spurious Operation
+Heating & Ventilation,Air Damper (DMP),MOD-ILS,Motor-Operated Damper Internal Leakage (Small)
+Heating & Ventilation,Air Damper (DMP),MOD-ILL,Motor-Operated Damper Internal Leakage (Rupture)
+Heating & Ventilation,Air Handling,AHU-FTS-NR,"Air Handling Unit Fails To Start, Normally Running"
+Heating & Ventilation,Air Handling,AHU-FTR-NR,"Air Handling Unit Fails To Run, Normally Running"
+Heating & Ventilation,Air Handling,AHU-FTS-NS,"Air Handling Unit Fails To Start, Normally Standby"
+Heating & Ventilation,Air Handling,AHU-FTR<1H,"Air Handling Unit Fails To Run <1H, Normally Standby"
+Heating & Ventilation,Air Handling,AHU-FTR>1H,"Air Handling Unit Fails To Run >1H, Normally Standby"
+Heating & Ventilation,Chiller (CHL),CHL-FTS-NR,"Chiller Unit Fails To Start, Normally Running"
+Heating & Ventilation,Chiller (CHL),CHL-FTR-NR,"Chiller Unit Fails To Run, Normally Running"
+Heating & Ventilation,Chiller (CHL),CHL-FTS-NS,"Chiller Unit Fails To Start, Normally Standby"
+Heating & Ventilation,Chiller (CHL),CHL-FTR<1H,"Chiller Unit Fails To Run <1H, Normally Standby"
+Heating & Ventilation,Chiller (CHL),CHL-FTR>1H,"Chiller Unit Fails To Run >1H, Normally Standby"
+Heating & Ventilation,Fan (FAN),FAN-FTS-NS,"HVC Fan Fails To Start, Normally Standby"
+Heating & Ventilation,Fan (FAN),FAN-FTR<1H,"HVC Fan FTR<1H, Normally Standby"
+Heating & Ventilation,Fan (FAN),FAN-FTR>1H,"HVC Fan FTR>1H, Normally Standby"
+Heating & Ventilation,Fan (FAN),FAN-FTS-NR,"HVC Fan Fails To Start, Normally Running"
+Heating & Ventilation,Fan (FAN),FAN-FTR-NR,"HVC Fan Fails To Run, Normally Running"
+Miscellaneous Equipment,Air Compressor (CMP),MDC-FTS-NR,"Motor-Driven Compressor Fails To Start, Normally Running"
+Miscellaneous Equipment,Air Compressor (CMP),MDC-FTR-NR,Motor-Driven Compressor Fails To Run
+Miscellaneous Equipment,Air Compressor (CMP),MDC-FTS-NS,"Motor-Driven Compressor Fails To Start, Normally Standby"
+Miscellaneous Equipment,Air Compressor (CMP),MDC-FTR<1H,Motor-Driven Compressor Fails To Run (0 To 1 Hour)
+Miscellaneous Equipment,Air Compressor (CMP),MDC-FTR>1H,Motor-Driven Compressor Fails To Run (> 1 Hour)
+Miscellaneous Equipment,Air Compressor (CMP),EDC-FTS-NS,"Engine-Driven Compressor Fails To Start, Normally Standby"
+Miscellaneous Equipment,Air Compressor (CMP),EDC-FTR<1H,"Engine-Driven Compressor Fails To Run <1H, Normally Standby"
+Miscellaneous Equipment,Air Compressor (CMP),EDC-FTR>1H,"Engine-Driven Compressor Fails To Run >1H, Normally Standby"
+Miscellaneous Equipment,Air Compressor (CMP),EDC-FTR-NR,"Engine-Driven Compressor Fails To Run, Normally Running"
+Miscellaneous Equipment,Air Compressor (CMP),MDC-FTR-IAS,Instrument Air System Motor-Driven Compressor Fails To Run
+Miscellaneous Equipment,Air Compressor (CMP),MDC-FTR-CIA,Containment Instrument Air  Motor-Driven Compressor Fails To Run
+Miscellaneous Equipment,Air Drier Unit (ADU),ADU-FTOP,Air dryer unit fails To operate
+Miscellaneous Equipment,Accumulator (ACC),ACC-FTOP,Accumulator Fails To Operate
+Miscellaneous Equipment,Accumulator (ACC),ACC-ELS,Accumulator External Leakage (Small)
+Miscellaneous Equipment,Accumulator (ACC),ACC-ELL,Accumulator External Leakage (Rupture)
+Miscellaneous Equipment,Cooling Tower Fan (CTF),CTF-FTS-NS,Cooling Tower Fan Fails To Start (Standby)
+Miscellaneous Equipment,Cooling Tower Fan (CTF),CTF-FTR<1H,Cooling Tower Fan Fails To Run <1H (Standby)
+Miscellaneous Equipment,Cooling Tower Fan (CTF),CTF--FTR>1H,Cooling Tower Fan Fails To Run >1H (Standby)
+Miscellaneous Equipment,Cooling Tower Fan (CTF),CTF-FTS-NR,Cooling Tower Fan Fails To Start
+Miscellaneous Equipment,Cooling Tower Fan (CTF),CTF-FTR-NR,Cooling Tower Fan Fails To Run
+Miscellaneous Equipment,Tank (TNK),TNK-FC,Tank Rupture
+Miscellaneous Equipment,Tank (TNK),TNK-PRESS-LIQ-ELS,Pressurized Liquid Tank Small Leakage External Leakage (Small)
+Miscellaneous Equipment,Tank (TNK),TNK-PRESS-LIQ-ELL,Pressurized Liquid Tank Small Leakage External Leakage (Rupture)
+Miscellaneous Equipment,Tank (TNK),TNK-UNPRESS-LIQ-ELS,Unpressurized Liquid Tank Small Leakage External Leakage (Small)
+Miscellaneous Equipment,Tank (TNK),TNK-UNPRESS-LIQ-ELL,Unpressurized Liquid Tank Small Leakage External Leakage (Rupture)
+Miscellaneous Equipment,Tank (TNK),TNK-FC-IAS,Instrument Air System Tank Fails To Control
+Miscellaneous Equipment,Tank (TNK),TNK-FC-SSW,Standby Service Water Tank Fails To Control
+Miscellaneous Equipment,Tank (TNK),TNK-GAS-ELS,Gas Tank Small Leakage External Leakage (Small)
+Miscellaneous Equipment,Tank (TNK),TNK-GAS-ELL,Gas Tank Small Leakage External Leakage (Rupture)
+Miscellaneous Equipment,Orifice (ORF),ORF-PG,Orifice Plugging
+Miscellaneous Equipment,Pipe (PIPE),PIPE-OTHER-ELS,Piping Non-Service Water System External Leak Small
+Miscellaneous Equipment,Pipe (PIPE),PIPE-OTHER-ELL,Piping Non-Service Water System External Leak Large
+Miscellaneous Equipment,Pipe (PIPE),PIPE-SWS-ELS,Piping Service Water System External Leak Small
+Miscellaneous Equipment,Pipe (PIPE),PIPE-SWS-ELL,Piping Service Water System External Leak Large
+Miscellaneous Equipment,Heat Exchanger (HTX),HTX-LOHT,Heat Exchanger Plugging/Loss of Heat Transfer
+Miscellaneous Equipment,Heat Exchanger (HTX),HTX-ILS,Heat Exchanger Internal Leakage (Small)
+Miscellaneous Equipment,Heat Exchanger (HTX),HTX-ILL,Heat Exchanger Internal Leakage (Rupture)
+Miscellaneous Equipment,Heat Exchanger (HTX),HTX-ELS,Heat Exchanger External Leakage (Small)
+Miscellaneous Equipment,Heat Exchanger (HTX),HTX-ELL,Heat Exchanger External Leakage (Rupture)
+Miscellaneous Equipment,Heat Exchanger (HTX),HTX-PG-CCW,Heat Exchanger Plugging Non Standby
+Miscellaneous Equipment,Heat Exchanger (HTX),HTX-PG-NE-CCW,Component Cooling Water Heat Exchanger Plugging Non-ExEE (hr-1)
+Miscellaneous Equipment,Instrumentation,ICC-FC,Instrumentation and Control Circuit Fails
+Miscellaneous Equipment,Instrumentation,ICC-FA,Failure of Instrument and Control for a Turbine Trip
+Miscellaneous Equipment,Instrumentation,ACT-FC,Automatic Actuation and Control Circuit Fails

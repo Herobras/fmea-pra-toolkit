@@ -1,0 +1,1 @@
+This repository uses synthetic examples only and does not include confidential, proprietary, or project-specific engineering data.
