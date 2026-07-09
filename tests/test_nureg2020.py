@@ -1,5 +1,5 @@
 # tests/test_nureg2020.py
-from fmea_pra_toolkit.get_data import get_data
+from fmea_pra_toolkit.catalog import get_data
 
 def test_nureg2020():
     df = get_data("NUREG_CR_6928_2020")
